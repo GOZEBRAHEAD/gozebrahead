@@ -11,8 +11,6 @@
 
 * :desktop_computer: &nbsp; I'm trying to become a Full-Stack Java Developer.
 
-* :dart: &nbsp; I already have knowledge in Java, C# (WinForms), JavaScript and C++.
-
 <hr>
 
 <h3 align="left">Knowledge:</h3>
