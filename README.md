@@ -5,7 +5,7 @@
 
 <h3 align="left">About me:</h3>
 
-* :mage: &nbsp; I'm a 22yo passionate about programming languages.
+* :mage: &nbsp; I'm a 23yo passionate about programming languages.
 
 * :books: &nbsp; I'm currently studying Software Development.
 
