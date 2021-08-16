@@ -5,11 +5,9 @@
 
 <h3 align="left">About me:</h3>
 
-* :mage: &nbsp; I'm a 23yo passionate about programming languages.
+* :mage: &nbsp; I'm a 23yo Java Developer passionate about programming languages.
 
 * :books: &nbsp; I'm currently studying Software Development.
-
-* :desktop_computer: &nbsp; I'm trying to become a Full-Stack Java Developer.
 
 <hr>
 
@@ -35,9 +33,6 @@
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        </a>
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-            <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/>
         </a>
         <a href="https://www.mysql.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
