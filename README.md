@@ -9,7 +9,7 @@
 
 :small_orange_diamond: &nbsp; I'm currently studying Software Development.
 
-:small_orange_diamond: &nbsp; My native language is Spanish, but I can speak English too!
+:small_orange_diamond: &nbsp; My native language is spanish, but I can also speak english and a basic portuguese!
 
 <hr>
 
@@ -36,13 +36,3 @@
 <hr>
 
 ![GOZEBRAHEAD GitHub stats](https://github-readme-stats.vercel.app/api?username=gozebrahead&show_icons=true&theme=react)
-
-<hr>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gozebrahead&theme=react&repo=GuitarShop)](https://github.com/GOZEBRAHEAD/GuitarShop)
-&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gozebrahead&theme=react&repo=WeatherApp)](https://github.com/GOZEBRAHEAD/WeatherApp)
-&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gozebrahead&theme=react&repo=CovidTracking)](https://github.com/GOZEBRAHEAD/CovidTracking)
-&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gozebrahead&theme=react&repo=CreditCardConcept)](https://github.com/GOZEBRAHEAD/CreditCardConcept)
