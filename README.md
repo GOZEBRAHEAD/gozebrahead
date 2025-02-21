@@ -1,43 +1,25 @@
-<h1 align="center">Welcome to my GitHub profile!</h1>
-<h4 align="center">I'm Luciano Nieves, a web dev from Argentina</h4>
+<h1 align="center">👋 Hey there! I'm Luciano Nieves</h1>
+<h3 align="center">Ssr Full Stack Software Engineer | Passionate about modern web technologies</h3>
 
-<hr />
+---
 
-* 🤔 I'm currently working as a Web Developer and studying _Web Development and Mobile Applications_ at the university.
-* 🗨️ If you want to contact me, here's my <a href="https://www.linkedin.com/in/luciano-nieves/" target="_blank" rel="noreferrer">LinkedIn profile</a>: 
-* 🖥️ You can [click here](http://gozebrahead.github.io/) to see my portfolio!
+### 🚀 About Me
+- 💻 Experienced **Full Stack Software Engineer** focused on building interesting applications.
+- 🎓 I hold a **Double Master's Degree in MBA & Project Management** and a **BSc in Computer Science (Summa Cum Laude graduate)**.
+- 🌎 I speak **Spanish (Native), English (C1), and Portuguese (Conversational)**.
+- 📚 I'm constantly learning new things, processes and technologies!
+- 📬 If you would like to add me, here's my [LinkedIn](https://www.linkedin.com/in/luciano-nieves/) profile.
+- 🎨 Check out my [personal](http://gozebrahead.github.io/) website.
 
-<hr />
+---
 
-### Languages and Tools:
+### 🛠️ Tech Stack
 
-<p align="left">
+#### **Frontend:**
+HTML, CSS, SASS, TailwindCSS, JavaScript, React, Redux Toolkit, React Router, React Query, jQuery
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="react" width="36" height="36"/></a>
+#### **Backend & Databases:**
+Java, Spring Boot, C#, VB .NET, SQL Server, MySQL
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/></a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="36" height="36"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="36" height="36"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/></a>
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36"/></a>
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="36" height="36"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="36" height="36"/></a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/></a>
-  
-</p>
-
-<hr />
-
-### My GitHub Stats:
-
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gozebrahead&title_color=ffffff&text_color=dee6ed&icon_color=0891b2&bg_color=273444&hide_border=true&show_icons=true&locale=en&layout=compact" alt="gozebrahead" /></a>
-
-<a><img src="https://github-readme-stats.vercel.app/api?username=gozebrahead&count_private=true&title_color=ffffff&text_color=dee6ed&icon_color=0891b2&bg_color=273444&hide_border=true&show_icons=true&locale=en" alt="gozebrahead" /></a>
+#### **Tools & Platforms:**  
+Git, Jira, Figma, Postman, Crystal Reports, SSIS
